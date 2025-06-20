@@ -1,4 +1,11 @@
 lorem ipsummme hhhhherey
 
 
+<<<<<<< HEAD
 echo "Update from main"
+=======
+echo "Test from feature"
+>>>>>>> feature
+
+
+Good Helllo
